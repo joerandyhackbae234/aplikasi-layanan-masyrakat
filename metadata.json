@@ -1,0 +1,7 @@
+{
+  "name": "NetScan Pro - Advanced Network Diagnostics",
+  "description": "Enterprise-grade network monitoring with AI insights, live ping tests, scan logs, and expert connectivity reports for Indonesian operators.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
